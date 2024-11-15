@@ -34,10 +34,10 @@ This project is a Remix starter kit based on the Epic Stack, tailored for my own
 
 ## Features To Be Implemented
 
-- [ ] Add deployment flow to CI/CD pipeline
+- [] Add deployment flow to CI/CD pipeline
 - [ ] Implement authentication
-- [ ] Implement Prisma ORM
-- [ ] Add ShadCN library primitives
+- [x] Implement Prisma ORM
+- [x] Add ShadCN library primitives
 - [ ] Implement Sentry
 - [ ] Implement Storybook
 - [ ] Implement Resend
